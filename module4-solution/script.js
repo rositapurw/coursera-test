@@ -41,6 +41,6 @@ var byeSpeaker = {};
 		console.log(speakGoodBye + byeSpeaker.names)
 	}
 
-window.helloSpeaker = helloSpeaker;
+window.byeSpeaker = byeSpeaker;
 
 })(window);
